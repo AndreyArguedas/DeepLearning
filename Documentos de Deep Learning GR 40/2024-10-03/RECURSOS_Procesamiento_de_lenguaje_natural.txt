@@ -1,0 +1,13 @@
+
+
++ INTRO al Natural Language Processing (NLP) #1 - ¡De PALABRAS a VECTORES!
+
+11 MINUTOS
+https://www.youtube.com/watch?v=Tg1MjMIVArc&list=PL-Ogd76BhmcAQXovVph6ZBjObrdxxxeCu
+
+15 MINUTOS
+https://www.youtube.com/watch?v=RkYuH_K7Fx4&list=PL-Ogd76BhmcAQXovVph6ZBjObrdxxxeCu&index=2
+
+
++ TRANSFORMERS ¿Cómo funcionan? 
+https://www.youtube.com/watch?v=aL-EmKuB078&list=PL-Ogd76BhmcAQXovVph6ZBjObrdxxxeCu&index=3
